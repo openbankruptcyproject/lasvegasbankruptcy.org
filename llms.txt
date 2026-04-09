@@ -1,0 +1,24 @@
+# Las Vegas Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+> Free Las Vegas bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
+
+## About
+lasvegasbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Las Vegas Bankruptcy -- Chapter 7 & 13 Filing Guide: https://lasvegasbankruptcy.org/
+- Chapter 7 Bankruptcy in Las Vegas -- Eligibility, Exemptions, Timeline: https://lasvegasbankruptcy.org/chapter-7.html
+- Chapter 13 Bankruptcy in Las Vegas -- Payment Plans, Dismissal Rates, Timeline: https://lasvegasbankruptcy.org/chapter-13.html
+- Nevada Bankruptcy Exemptions -- What You Can Keep -- Las Vegas: https://lasvegasbankruptcy.org/exemptions.html
+- How Much Does Bankruptcy Cost in Las Vegas? -- Filing Fees, Attorney Fees: https://lasvegasbankruptcy.org/cost.html
+- What to Expect When Filing Bankruptcy in Las Vegas -- Timeline, 341 Meeting, Discharge: https://lasvegasbankruptcy.org/what-to-expect.html
+- Las Vegas Bankruptcy FAQ -- Common Questions Answered: https://lasvegasbankruptcy.org/faq.html
+- Las Vegas Bankruptcy Statistics -- 47,516 Cases Analyzed: https://lasvegasbankruptcy.org/statistics.html
+- Las Vegas Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://lasvegasbankruptcy.org/resources.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
