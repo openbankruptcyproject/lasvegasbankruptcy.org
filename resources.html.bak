@@ -4,20 +4,20 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>Las Vegas Bankruptcy Statistics - 47,516 Cases Analyzed</title>
-<meta content="Learn about las vegas bankruptcy statistics - 47,516 cases analyzed | las vegas bankruptcy guide in our free 2026 guide." name="description"/>
+<title>Las Vegas Bankruptcy Resources - Courts, Legal Aid, Credit Counseling</title>
+<meta content="Las Vegas bankruptcy resources including court info, legal aid organizations, credit counseling agencies, and free educational tools." name="description"/>
 <link href="favicon.svg" rel="icon" type="image/svg+xml"/>
-<link href="https://lasvegasbankruptcy.org/statistics.html" rel="canonical"/>
+<link href="https://lasvegasbankruptcy.org/resources.html" rel="canonical"/>
 <!-- BTN:GA4:START -->
 <link href="https://www.googletagmanager.com" rel="preconnect"/>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
   gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
 <!-- BTN:GA4:END -->
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How many bankruptcy cases are filed in Las Vegas?","acceptedAnswer":{"@type":"Answer","text":"The District of Nevada has had 47,516 cases filed between 2008 and 2024."}},{"@type":"Question","name":"What is the Chapter 13 success rate in Las Vegas?","acceptedAnswer":{"@type":"Answer","text":"The discharge rate is 43.0% and the dismissal rate is 57.0% based on FJC data from 2008-2024."}},{"@type":"Question","name":"What is the prior filer rate?","acceptedAnswer":{"@type":"Answer","text":"26.5% of filers in D. Nev. had a previous bankruptcy case."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Where is the Las Vegas bankruptcy court?","acceptedAnswer":{"@type":"Answer","text":"The District of Nevada bankruptcy court is located at 300 Las Vegas Blvd S, Las Vegas, NV 89101. Phone: (702) 527-7000."}},{"@type":"Question","name":"Is there free legal help for bankruptcy in Las Vegas?","acceptedAnswer":{"@type":"Answer","text":"Yes. Nevada Legal Services ((702) 386-0404) provides free legal services to qualifying low-income individuals."}},{"@type":"Question","name":"Where can I take the required credit counseling course?","acceptedAnswer":{"@type":"Answer","text":"The U.S. Trustee Program maintains a list of approved agencies at justice.gov/ust. Most offer courses online or by phone for $15-25."}}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Las Vegas Bankruptcy Statistics","description":"Analysis of 47,516 bankruptcy cases in Las Vegas from FJC data.","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"},"datePublished":"2026-04-05","dateModified":"2026-04-05","mainEntityOfPage":"https://lasvegasbankruptcy.org/statistics.html"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://lasvegasbankruptcy.org"},{"@type":"ListItem","position":2,"name":"Statistics","item":"https://lasvegasbankruptcy.org/statistics.html"}]},{"@type":"WebPage","name":"Las Vegas Bankruptcy Statistics","url":"https://lasvegasbankruptcy.org/statistics.html","speakable":{"@type":"SpeakableSpecification","cssSelector":[".quick-answer","h1",".summary","p:first-of-type"]}}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Las Vegas Bankruptcy Resources","description":"Directory of bankruptcy resources for Las Vegas residents.","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"},"datePublished":"2026-04-05","dateModified":"2026-04-05","mainEntityOfPage":"https://lasvegasbankruptcy.org/resources.html"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://lasvegasbankruptcy.org"},{"@type":"ListItem","position":2,"name":"Resources","item":"https://lasvegasbankruptcy.org/resources.html"}]},{"@type":"WebPage","name":"Las Vegas Bankruptcy Resources","url":"https://lasvegasbankruptcy.org/resources.html","speakable":{"@type":"SpeakableSpecification","cssSelector":[".quick-answer","h1",".summary","p:first-of-type"]}}]}
 </script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
@@ -78,8 +78,8 @@ td{color:#c9d1d9}
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<link href="https://lasvegasbankruptcy.org/statistics.html" hreflang="en" rel="alternate"/>
-<link href="https://lasvegasbankruptcy.org/statistics-es.html" hreflang="es" rel="alternate"/>
+<link href="https://lasvegasbankruptcy.org/resources.html" hreflang="en" rel="alternate"/>
+<link href="https://lasvegasbankruptcy.org/resources-es.html" hreflang="es" rel="alternate"/>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -102,93 +102,89 @@ td{color:#c9d1d9}
 </script>
 <meta content="https://lasvegasbankruptcy.org/og-image.svg" property="og:image"/>
 <meta content="https://lasvegasbankruptcy.org/og-image.svg" name="twitter:image"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <nav><div class="container"><a class="brand" href="/">Las Vegas Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="chapter-7.html">Chapter 7</a><a href="chapter-13.html">Chapter 13</a><a href="exemptions.html">Exemptions</a><a href="cost.html">Cost</a><a href="faq.html">FAQ</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://lasvegasbankruptcy.org">Home</a><span class="separator">›</span><span>Statistics</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://lasvegasbankruptcy.org">Home</a><span class="separator">›</span><span>Resources</span></nav>
 <div class="hero"><div class="container">
-<h1>Las Vegas Bankruptcy Statistics</h1>
-<p class="subtitle">Data from 47,516 cases in the District of Nevada, analyzed from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (2008-2024).</p>
+<h1>Las Vegas Bankruptcy Resources</h1>
+<p class="subtitle">Courts, legal aid organizations, <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> agencies, and free educational tools to help you navigate the bankruptcy process.</p>
 </div></div>
-<div class="container">
-<div class="stats-row">
-<div class="stat-card"><div class="number">47,516</div><div class="label">Total Cases (2008-2024)</div></div>
-<div class="stat-card danger"><div class="number">57.0%</div><div class="label"><a href="https://dismissalrate.org/" title="dismissal rate">Dismissal Rate</a></div></div>
-<div class="stat-card"><div class="number">43.0%</div><div class="label"><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> Rate</div></div>
-<div class="stat-card danger"><div class="number">26.5%</div><div class="label">Prior Filer Rate</div></div>
-<div class="stat-card"><div class="number">1,383</div><div class="label">Est. <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> Violations</div></div>
-<div class="stat-card"><div class="number">10.4%</div><div class="label"><a href="https://prosebankruptcy.org/" title="pro se">Pro Se</a> Rate</div></div>
-</div>
-</div>
 <section><div class="container">
-<h2>What These Numbers Mean for You</h2>
+<h2>Bankruptcy Court</h2>
 <div class="card">
-<p>If you are considering <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy in Las Vegas, these statistics should inform your decision:</p>
+<h3>District of Nevada - Bankruptcy Court</h3>
 <ul>
-<li><strong>57.0% of cases are dismissed.</strong> That means the majority of filers spent months or years making payments and got no debt relief at the end.</li>
-<li><strong>Only 43.0% receive a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</strong> This is the percentage of filers who successfully complete their plan.</li>
-<li><strong>26.5% are prior filers.</strong> This high rate suggests many people cycle through the system without achieving lasting relief.</li>
-<li><strong>An estimated 1,383 cases</strong> may involve potential <a href="https://1328f.com" title="1328(f) Screener">1328(f) eligibility violations</a> - filings where the debtor could never have received a discharge.</li>
-<li><strong>Quality of representation matters.</strong> The data shows that representation quality is one of the strongest predictors of plan completion.</li>
+<li><strong>Address:</strong> 300 Las Vegas Blvd S, Las Vegas, NV 89101</li>
+<li><strong>Phone:</strong> (702) 527-7000</li>
+<li><strong>Website:</strong> <a href="https://www.nvb.uscourts.gov" rel="noopener" target="_blank">nvb.uscourts.gov</a></li>
+<li><strong><a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a>:</strong> <a href="https://ecf.nvb.uscourts.gov" rel="noopener" target="_blank">ecf.nvb.uscourts.gov</a></li>
 </ul>
 </div>
 </div></section>
 <section><div class="container">
-<h2>District Overview: District of Nevada</h2>
-<table>
-<tr><th>Metric</th><th>D. Nev.</th></tr>
-<tr><td>Total cases (2008-2024)</td><td>47,516</td></tr>
-<tr><td><strong><a href="https://dismissedbankruptcy.org/" title="dismissal">Dismissal</a> rate</strong></td><td style="color:#f85149;font-weight:700">57.0%</td></tr>
-<tr><td>Discharge rate</td><td>43.0%</td></tr>
-<tr><td>Prior filer rate</td><td>26.5%</td></tr>
-<tr><td><a href="https://prosebankruptcy.org/" title="pro se">Pro se</a> rate</td><td>10.4%</td></tr>
-<tr><td>Est. <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> violations</td><td>1,383</td></tr>
-</table>
-</div></section>
-<section><div class="container">
-<h2>Key Takeaways</h2>
+<h2>Legal Aid Organizations</h2>
 <div class="card">
-<h3>The Prior Filer Problem</h3>
-<p>26.5% of D. Nev. filers had a prior bankruptcy case. This cycling suggests the first filing failed to provide lasting relief - and raises questions about whether filers were properly screened under <a href="https://1328f.com" title="1328(f) Screener">section 1328(f)</a>.</p>
+<h3>Nevada Legal Services</h3>
+<p>Provides free civil legal services to low-income individuals, including bankruptcy representation.</p>
+<ul>
+<li><strong>Phone:</strong> (702) 386-0404</li>
+<li><strong>Website:</strong> <a href="https://www.nlslaw.net" rel="noopener" target="_blank">nlslaw.net</a></li>
+</ul>
 </div>
 <div class="card">
-<h3>1,383 Potential 1328(f) Violations</h3>
-<p>An estimated 1,383 cases may involve eligibility violations under <a href="https://section1328.org" title="Section 1328">11 U.S.C. section 1328(f)</a> - filings where the debtor had a prior discharge within the statutory time bar and could never have received a new discharge.</p>
+<h3>Legal Aid Center of Southern Nevada</h3>
+<ul>
+<li><strong>Phone:</strong> (702) 386-1070</li>
+<li><strong>Website:</strong> <a href="https://www.lacsn.org" rel="noopener" target="_blank">lacsn.org</a></li>
+</ul>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Credit Counseling and Debtor Education</h2>
+<div class="card">
+<p>Two courses are required: pre-filing <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> and post-filing debtor education. You must use agencies approved by the <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">U.S. Trustee Program</a>.</p>
+<ul>
+<li><strong>Approved agencies:</strong> <a href="https://www.justice.gov/ust/list-credit-counseling-agencies-approved-pursuant-11-usc-111" rel="noopener" target="_blank">justice.gov - approved agencies</a></li>
+<li><strong>Cost:</strong> $15-25 per course (reduced fees available)</li>
+<li><strong>Format:</strong> Online, phone, or in-person</li>
+</ul>
+</div>
+</div></section>
+<section><div class="container">
+<h2>U.S. Trustee Program</h2>
+<div class="card">
+<ul>
+<li><strong>Region 17 (includes D. Nev.):</strong> (702) 388-6600</li>
+<li><strong>Website:</strong> <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">justice.gov/ust</a></li>
+</ul>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Free Educational Tools</h2>
+<div class="card">
+<h3>Open Bankruptcy Project Network</h3>
+<ul>
+<li><a href="https://1328f.com" title="1328(f) Screener">1328(f) Discharge Eligibility Screener</a></li>
+<li><a href="https://chapter7vs13.org" title="Chapter 7 vs 13">Chapter 7 vs. Chapter 13 Comparison</a></li>
+<li><a href="https://automaticstay.org" title="Automatic Stay">Automatic Stay Guide</a></li>
+<li><a href="https://341meeting.org" title="341 Meeting">341 Meeting Guide</a></li>
+<li><a href="https://bankruptcymeanstest.org" title="Means Test">Means Test Explained</a></li>
+<li><a href="https://howmuchdoesbankruptcycost.com" title="Cost">National Cost Guide</a></li>
+<li><a href="https://howtofilebankruptcy.org" title="How to File">How to File Bankruptcy</a></li>
+<li><a href="https://bankruptcydismissed.com" title="Dismissed">Case Dismissed?</a></li>
+<li><a href="https://filebankruptcyagain.com" title="File Again">File Again?</a></li>
+<li><a href="https://dismissalrate.org" title="Dismissal Rates">Dismissal Rate Data</a></li>
+</ul>
 </div>
 </div></section>
 <section><div class="container">
 <h2>Frequently Asked Questions</h2>
-<details class="faq-item"><summary>How many bankruptcy cases are filed in Las Vegas?</summary><div class="answer"><p>The District of Nevada has had 47,516 cases filed between 2008 and 2024.</p></div></details>
-<details class="faq-item"><summary>What is the <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> success rate?</summary><div class="answer"><p>The discharge rate is 43.0% and the <a href="https://dismissalrate.org" title="Dismissal Rates">dismissal rate</a> is 57.0%.</p></div></details>
-<details class="faq-item"><summary>What is the prior filer rate?</summary><div class="answer"><p>26.5% of filers had a previous bankruptcy case, suggesting many cycle through the system without lasting relief.</p></div></details>
+<details class="faq-item"><summary>Where is the Las Vegas bankruptcy court?</summary><div class="answer"><p>300 Las Vegas Blvd S, Las Vegas, NV 89101. Phone: (702) 527-7000.</p></div></details>
+<details class="faq-item"><summary>Is there free legal help for bankruptcy in Las Vegas?</summary><div class="answer"><p>Yes. Nevada Legal Services ((702) 386-0404) provides free services to qualifying individuals.</p></div></details>
+<details class="faq-item"><summary>Where can I take the required credit counseling?</summary><div class="answer"><p>See the approved list at <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">justice.gov/ust</a>. Most courses are $15-25 online.</p></div></details>
 </div></section>
 <div class="container">
-<div style="text-align:center;padding:40px 0">
-<h2>Check Your Eligibility</h2>
-<p>Use the free 1328(f) screener to check whether a prior discharge affects your eligibility.</p>
-<a class="cta" href="https://1328f.com">Free Discharge Screener</a>
-</div>
 <div class="network">
 <h3>Open Bankruptcy Project Network</h3>
 <div class="network-links">
@@ -222,7 +218,7 @@ td{color:#c9d1d9}
 <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
 <div class="container">
 <p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
-<p>Data sourced from the Federal Judicial Center Integrated Database (2008--2024).</p>
+<p>Data sourced from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (2008--2024).</p>
 <p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
 <p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
 </div></footer>
@@ -234,7 +230,7 @@ td{color:#c9d1d9}
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=lasvegasbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=lasvegasbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=lasvegasbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=lasvegasbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 </ul>
 </div>
 <script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
