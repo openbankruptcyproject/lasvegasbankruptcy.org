@@ -1,6 +1,6 @@
 # lasvegasbankruptcy.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on lasvegasbankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -37,6 +37,8 @@ Plan Duration
 $313
 
 Filing Fee
+
+The District of Nevada has a 57.0% Chapter 13 dismissal rate based on FJC data from 47,516 cases (2008-2024). The prior filer rate is 26.5%.
 
 What Is Chapter 13?
 
@@ -152,15 +154,33 @@ Las Vegas Exemptions
 
 Bankruptcy Cost in Las Vegas
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -183,6 +203,8 @@ Home›Chapter 7
 Chapter 7 Bankruptcy in Las Vegas
 
 Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what Las Vegas residents need to know.
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, alimony, or debts incurred through fraud.
 
 What Is Chapter 7?
 
@@ -312,15 +334,33 @@ Las Vegas Exemptions
 
 Bankruptcy Cost in Las Vegas
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -332,7 +372,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## How Much Does Bankruptcy Cost in Las Vegas? - Filing Fees, Attorney Fees
+## Las Vegas Bankruptcy Cost [2026]: $338 Chapter 7 / $313 Chapter 13 Filing Fee Plus Attorney Fees
 Source: https://lasvegasbankruptcy.org/cost.html
 
 Las Vegas Bankruptcy Guide
@@ -359,6 +399,8 @@ Credit Counseling (2 courses)
 $1,200-$4,500
 
 Typical Attorney Fees
+
+The Chapter 7 filing fee is $338. Attorney fees in Las Vegas typically range from $1,200-$2,000. Credit counseling costs about $25-50 total (two required). Fee waivers are available if your income is below 150% of the federal poverty guidelines.
 
 Chapter 7 Cost Breakdown
 
@@ -448,15 +490,33 @@ Las Vegas Exemptions
 
 Bankruptcy Cost in Las Vegas
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -479,6 +539,8 @@ Home›Exemptions
 Nevada Bankruptcy Exemptions
 
 Exemptions determine what property you get to keep when you file bankruptcy. Understanding them is critical - they can mean the difference between keeping and losing your home, car, and savings.
+
+Nevada's homestead exemption protects $605,000 of equity in your primary residence.
 
 What Are Exemptions?
 
@@ -560,15 +622,33 @@ Las Vegas Exemptions
 
 Bankruptcy Cost in Las Vegas
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -580,7 +660,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Las Vegas Bankruptcy FAQ - Common Questions Answered
+## Las Vegas Bankruptcy FAQ [2026]: D. Nevada Filing, 341 Meetings, and Chapter 13 Dismissal Rates
 Source: https://lasvegasbankruptcy.org/faq.html
 
 Las Vegas Bankruptcy Guide
@@ -591,6 +671,8 @@ Home›Faq
 Frequently Asked Questions
 
 Answers to the most common questions from Las Vegas residents considering bankruptcy.
+
+Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically range from $1,200-$2,000 for Chapter 7 and $3,000-$4,500 for Chapter 13.
 
 Cost and Eligibility
 
@@ -688,15 +770,33 @@ Las Vegas Exemptions
 
 Bankruptcy Cost in Las Vegas
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -708,13 +808,13 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 ---
 
-## Las Vegas Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+## Las Vegas Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
 Source: https://lasvegasbankruptcy.org/
 
 Skip to main content
 
 Las Vegas Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostFAQOBP Rule 9037 PII Scanner
+HomeChapter 7Chapter 13ExemptionsCostFAQOBP Rule 9037 Compliance Guide
 
 Las Vegas Bankruptcy - Your Complete Filing Guide for 2026
 
@@ -740,6 +840,8 @@ Prior Filer Rate
 $338
 
 Chapter 7 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Las Vegas typically range from $1,200-$2,000 for Chapter 7 and $3,000-$4,500 for Chapter 13.
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -883,19 +985,33 @@ Avoid high-volume firms with poor outcomes
 
 bankruptcymill.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -981,6 +1097,35 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Index
+Resources
+
 ---
 
 ## Las Vegas Bankruptcy Resources - Courts, Legal Aid, Credit Counseling
@@ -994,6 +1139,8 @@ Home›Resources
 Las Vegas Bankruptcy Resources
 
 Courts, legal aid organizations, credit counseling agencies, and free educational tools to help you navigate the bankruptcy process.
+
+The District of Nevada bankruptcy court is located at 300 Las Vegas Blvd S, Las Vegas, NV 89101. Phone: (702) 527-7000.
 
 Bankruptcy Court
 
@@ -1103,15 +1250,33 @@ Las Vegas Exemptions
 
 Bankruptcy Cost in Las Vegas
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1123,7 +1288,7 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 ---
 
-## Las Vegas Bankruptcy Statistics - 47,516 Cases Analyzed
+## Las Vegas Bankruptcy Statistics [2026]: 47,516 D. Nevada Cases Analyzed (PACER Data)
 Source: https://lasvegasbankruptcy.org/statistics.html
 
 Las Vegas Bankruptcy Guide
@@ -1158,6 +1323,8 @@ Est. 1328(f) Violations
 10.4%
 
 Pro Se Rate
+
+The District of Nevada has had 47,516 cases filed between 2008 and 2024.
 
 What These Numbers Mean for You
 
@@ -1245,15 +1412,33 @@ Las Vegas Exemptions
 
 Bankruptcy Cost in Las Vegas
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1276,6 +1461,8 @@ Home›What To Expect
 What to Expect When Filing Bankruptcy
 
 The bankruptcy process can feel overwhelming, but it follows a clear, predictable path. Here is exactly what happens from start to finish in Las Vegas.
+
+The 341 meeting is a brief hearing where the trustee asks you questions under oath about your finances. Bring photo ID and Social Security proof. Most meetings last 5-10 minutes.
 
 Chapter 7 Timeline
 
@@ -1421,15 +1608,33 @@ Las Vegas Exemptions
 
 Bankruptcy Cost in Las Vegas
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1497,7 +1702,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -1507,6 +1712,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About lasvegasbankruptcy.org
+Source: https://lasvegasbankruptcy.org/about.html
+
+lasvegasbankruptcy.org
+
+Home
+About
+Privacy
+
+About lasvegasbankruptcy.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+lasvegasbankruptcy.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.

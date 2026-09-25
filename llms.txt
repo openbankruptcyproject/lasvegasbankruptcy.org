@@ -1,5 +1,5 @@
-# Las Vegas Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Las Vegas Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Las Vegas bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
 
@@ -9,14 +9,15 @@ lasvegasbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 ## Key Pages
 - Chapter 13 Bankruptcy in Las Vegas - Payment Plans, Dismissal Rates, Timeline: https://lasvegasbankruptcy.org/chapter-13.html
 - Chapter 7 Bankruptcy in Las Vegas - Eligibility, Exemptions, Timeline: https://lasvegasbankruptcy.org/chapter-7.html
-- How Much Does Bankruptcy Cost in Las Vegas? - Filing Fees, Attorney Fees: https://lasvegasbankruptcy.org/cost.html
+- Las Vegas Bankruptcy Cost [2026]: $338 Chapter 7 / $313 Chapter 13 Filing Fee Plus Attorney Fees: https://lasvegasbankruptcy.org/cost.html
 - Nevada Bankruptcy Exemptions - What You Can Keep - Las Vegas: https://lasvegasbankruptcy.org/exemptions.html
-- Las Vegas Bankruptcy FAQ - Common Questions Answered: https://lasvegasbankruptcy.org/faq.html
-- Las Vegas Bankruptcy - Chapter 7 & 13 Filing Guide: https://lasvegasbankruptcy.org/
+- Las Vegas Bankruptcy FAQ [2026]: D. Nevada Filing, 341 Meetings, and Chapter 13 Dismissal Rates: https://lasvegasbankruptcy.org/faq.html
+- Las Vegas Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://lasvegasbankruptcy.org/
 - Las Vegas Bankruptcy Resources - Courts, Legal Aid, Credit Counseling: https://lasvegasbankruptcy.org/resources.html
-- Las Vegas Bankruptcy Statistics - 47,516 Cases Analyzed: https://lasvegasbankruptcy.org/statistics.html
+- Las Vegas Bankruptcy Statistics [2026]: 47,516 D. Nevada Cases Analyzed (PACER Data): https://lasvegasbankruptcy.org/statistics.html
 - What to Expect When Filing Bankruptcy in Las Vegas - Timeline, 341 Meeting, Discharge: https://lasvegasbankruptcy.org/what-to-expect.html
 - Privacy Policy: https://lasvegasbankruptcy.org/privacy.html
+- About lasvegasbankruptcy.org: https://lasvegasbankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
